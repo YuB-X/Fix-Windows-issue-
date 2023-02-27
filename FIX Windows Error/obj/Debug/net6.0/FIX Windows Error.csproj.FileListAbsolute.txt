@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\bin\Debug\net6.0\FIX Windows Error.exe
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\bin\Debug\net6.0\FIX Windows Error.deps.json
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\bin\Debug\net6.0\FIX Windows Error.runtimeconfig.json
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\bin\Debug\net6.0\FIX Windows Error.dll
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\bin\Debug\net6.0\FIX Windows Error.pdb
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\FIX Windows Error.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\FIX Windows Error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\FIX Windows Error.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\FIX Windows Error.AssemblyInfo.cs
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\FIX Windows Error.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\FIX Windows Error.dll
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\refint\FIX Windows Error.dll
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\FIX Windows Error.pdb
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\FIX Windows Error.genruntimeconfig.cache
+C:\Users\User\source\repos\FIX Windows Error\FIX Windows Error\obj\Debug\net6.0\ref\FIX Windows Error.dll
